@@ -1,0 +1,2 @@
+# pharmo_blog
+blog
